@@ -1,0 +1,21 @@
+transaction_id,date,product_id,product_name,quantity,price,country
+
+1001,2023-05-01,P001,Wireless Headphones,2,89.99,USA
+
+1002,2023-05-01,P002,Bluetooth Speaker,1,49.95,Canada
+
+1003,2023-05-02,P003,Smartphone Case,3,,UK
+
+1004,2023-05-02,P001,Wireless Headphones,1,79.99,Germany
+
+1005,2023-05-03,P004,USB-C Cable,5,12.50,USA
+
+1006,2023-05-03,P005,Laptop Stand,2,29.99,France
+
+1007,2023-05-04,P002,Bluetooth Speaker,,45.00,Canada
+
+1008,2023-05-04,P006,Monitor 24",1,149.99,USA
+
+1009,2023-05-05,P003,Smartphone Case,4,15.00,Australia
+
+1010,2023-05-05,P007,Keyboard,1,59.99,Japan
